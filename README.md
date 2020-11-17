@@ -13,13 +13,13 @@
   </a>
 
   <a href="https://github.com.br/Leandro2585">
-    <img alt="Feito pela Leandro" src="https://img.shields.io/badge/feito%20por-Leandro-%237519C1">
+    <img alt="Made by Leandro" src="https://img.shields.io/badge/made%20by-Leandro-%237519C1">
   </a>  
  
 </p>
 
 <h4 align="center"> 
-	🚧  Template Server :node.js Concluded 🚀 🚧
+	🚧  Template Server under development 🚀 🚧
 </h4>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 ## 💻 About the project
 
-♻️ Template Server - is a way to speed up the process of creating a new project, with this template you skip the initial stages of standardized libs installations and are already ready to go to development, so it speeds up the programmer's work to a great extent.
+Template Server - is a way to speed up the process of creating a new project, with this template you skip the initial stages of standardized libs installations and are already ready to go to development, so it speeds up the programmer's work to a great extent.
 
 ---
 
@@ -86,7 +86,7 @@ The following tools were used in the construction of the project:
 
 #### [](https://github.com/Leandro2585/Ecoleta#utilit%C3%A1rios)**Utilitários**
  
--   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
+-   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[Postgres](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-postgres)**
 
 -   Test Server:  **[Insomnia](https://insomnia.rest/)**
 ---
@@ -103,7 +103,7 @@ The following tools were used in the construction of the project:
 ##  Author
 
 <a href="https://github.com/Leandro2585">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/49343139?s=460&u=56b59618079de8c4b47b717841307605c4eb74f8&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Leandro Real</b></sub></a> <a href="https://github.com/Leandro2585" title="Leandro">🚀</a>
  <br />
